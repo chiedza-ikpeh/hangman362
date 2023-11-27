@@ -26,7 +26,7 @@ guess = input("Please enter a single letter: ")
 
 # Task 4
 # Sample input for demonstration purposes
-guess = "A"  # In a real scenario, this would be obtained using input()
+guess = input("Please enter a single letter: ")
 
 # Step 1: Check if the input is a single letter and is alphabetical
 if len(guess) == 1 and guess.isalpha():
