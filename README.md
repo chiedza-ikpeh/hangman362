@@ -7,9 +7,9 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 ## Project Description
 
--  what it does
-- the aim of the project 
-- what you learned
+- What it does...
+- What is the aim of the project ...
+- What you learned...
 
 ## Installation Instructions
 
