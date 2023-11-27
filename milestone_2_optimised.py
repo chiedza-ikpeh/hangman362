@@ -1,3 +1,4 @@
+# Milestone 2
 # Function to create and return a list of favorite fruits
 def create_favorite_fruits_list():
     return ["Apple", "Banana", "Cherry", "Grapes", "Mango"]
